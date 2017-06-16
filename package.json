@@ -1,0 +1,27 @@
+{
+  "name": "findfood",
+  "version": "1.0.0",
+  "description": "Find Your Favorite Food @ Rice University",
+  "main": "find.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexthkim/findfood.git"
+  },
+  "author": "Alexander Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexthkim/findfood/issues"
+  },
+  "homepage": "https://github.com/alexthkim/findfood#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "express": "^4.15.3",
+    "jquery": "^3.2.1",
+    "jsdom": "^11.0.0",
+    "parsehtml": "^1.0.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
