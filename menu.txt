@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en-us" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en-us" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-us" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en-us" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en-us" class="no-js">
+<!--<![endif]-->
+<head>
+<!--[if IE]>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1">
+  <![endif]-->
+<meta charset="utf-8">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<title>Rice Dining</title>
+<meta name="description" content="Welcome to all new and returning students, faculty and staff. Rice University Dining exemplifies the art of the culinary with national and regional award-winning chefs and cooking from scratch with healthy and sustainable ingredients. Our mission is simple: Culinary excellence." />
+<meta name="keywords" content="rice university, rice, william marsh rice, rice owls, houston, texas" />
+
+<!-- WPHEAD -->
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Rice Dining &raquo; Home Comments Feed" href="http://dining.rice.edu/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/dining.rice.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='https://api.w.org/' href='http://dining.rice.edu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://dining.rice.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dining.rice.edu/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.7.5" />
+<link rel="canonical" href="http://dining.rice.edu/" />
+<link rel='shortlink' href='http://dining.rice.edu/' />
+<link rel="alternate" type="application/json+oembed" href="http://dining.rice.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdining.rice.edu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://dining.rice.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdining.rice.edu%2F&#038;format=xml" />
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- CSS -->
+<link rel="stylesheet" href="http://dining.rice.edu/wp-content/themes/rice/_css/main.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://dining.rice.edu/wp-content/themes/rice/_css/print.css" type="text/css" media="print" />
+<link rel="stylesheet" href="http://dining.rice.edu/wp-content/themes/rice/_css/custom.css">
+
+<!--[if lte IE 9]>
+    <script src="http://dining.rice.edu/wp-content/themes/rice/_scripts/seherolectivizr-min.js"></script>
+    <script src="http://dining.rice.edu/wp-content/themes/rice/_scripts/html5shiv.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js">
+  </script>
+  <link rel="stylesheet" href="http://dining.rice.edu/wp-content/themes/rice/_css/ie.css">
+<![endif]-->
+
+<!--[if IE 7]>
+  <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="http://dining.rice.edu/wp-content/themes/rice/_css/ie7.css">
+  <script src="http://dining.rice.edu/wp-content/themes/rice/_scripts/ie7.js"></script>
+<![endif]-->
+</head>
+<body class="no-svg">
+
+<header id="header">
+  <div class="container">
+    <div class="row">
+      <div class="col_3 logo alpha omega">
+        <div class="logo-img"> <a href="http://www.rice.edu"> <img src="http://dining.rice.edu/wp-content/themes/rice/_images/logo.jpg" alt="Rice University Logo" width="180" height="86"> </a> </div>
+        <!--//End logo-img-->
+        <div class="logo-text">
+          <h1 id="screen-width">Rice Dining</h1>
+        </div>
+        <!--//End logo-text-->
+      </div>
+      <!--//End logo-->
+      <!-- Search Box -->
+      <div class="search hidden-sm">
+        <form action="http://www.rice.edu/Internet/search/query.php" name="gs" method="get">
+          <input type="text" id="p" maxlength="255" size="20" name="search" title="search engine" />
+          <input type="submit" name="tab" value="Search" />
+        </form>
+      </div>
+      <!--End Search-->
+    </div>
+    <!--//End Row-->
+  </div>
+  <!--**** Nav Row ****-->
+  <nav id="topnav" class="nav-container">
+    <div class="row navrow">
+      <div class="menu-primary-nav-container"><ul id="menu-primary-nav" class="nav"><li id="menu-item-16"><a href="http://dining.rice.edu/">Home</a></li>
+<li id="menu-item-72"><a href="/undergraduate-dining/">Undergraduate</a></li>
+<li id="menu-item-18"><a href="http://dining.rice.edu/graduate-dining/">Graduate</a></li>
+<li id="menu-item-20"><a href="http://dining.rice.edu/public-dining/">Public</a></li>
+<li id="menu-item-24"><a href="http://dining.rice.edu/farmers-market/">Farmers Market</a></li>
+<li id="menu-item-2469"><a target="_blank" href="http://campushousing.rice.edu/summer-and-conference-housing/summer-dining-options/#new_tab">Summer Dining</a></li>
+<li id="menu-item-2145"><a href="http://campushousing.rice.edu/">Housing</a></li>
+</ul></div>      <div class="mobilenavouter">
+        <div class="row">
+          <div id="navslider">
+            <button type="button" class="navbar-toggle show_hide"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+          </div>
+          <!--//End navslider-->
+          <div class="search visible-sm">
+            <div class="adj"><!-- trying to fix pixel offset -->
+              <form  action="http://www.rice.edu/Internet/search/query.php" name="gs" method="get">
+                <input type="text" id="q" maxlength="255" size="20" name="search" title="search engine" />
+                <button type="submit" name="tab" value="Search">Search</button>
+              </form>
+            </div>
+            <!--//End adj-->
+          </div>
+          <!--//End search-->
+          <div class="slidingDiv">
+           <div class="menu-primary-nav-container"><ul id="menu-primary-nav-1" class="mobnav"><li><a href="http://dining.rice.edu/">Home</a></li>
+<li><a href="/undergraduate-dining/">Undergraduate</a></li>
+<li><a href="http://dining.rice.edu/graduate-dining/">Graduate</a></li>
+<li><a href="http://dining.rice.edu/public-dining/">Public</a></li>
+<li><a href="http://dining.rice.edu/farmers-market/">Farmers Market</a></li>
+<li><a target="_blank" href="http://campushousing.rice.edu/summer-and-conference-housing/summer-dining-options/#new_tab">Summer Dining</a></li>
+<li><a href="http://campushousing.rice.edu/">Housing</a></li>
+</ul></div>          </div>
+          <!--//End slidingDiv-->
+        </div>
+        <!--//End Row -->
+      </div>
+      <!--//End mobilenavouter-->
+    </div>
+    <!--//End Row -->
+  </nav>
+  <!--//End Nav -->
+</header>
+<!--****Begin Main****-->
+<div id="main">
+  <!-- Hero Panel #1 -->
+  <section id="section1" class="container hero hero-bg1" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="175" style="background-image: url(http://dining.rice.edu/wp-content/uploads/2014/12/chefbig.jpg)">
+    <!--<h2>Housing and Dining</h2>-->
+    <div class="row twitter">
+      <!-- Eg of Hero Title -->
+      <div id="tracker-container">
+        <div id="twitter-tracker"> </div>
+        <div id="more-tweets"> <a href="https://twitter.com/ricedining ">More Tweets</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a
+          id="follow-button" class="btn"
+          title="Follow @ricedining on Twitter"
+          href="https://twitter.com/intent/follow?ref_src=twsrc%5Etfw&amp;region=follow_link&amp;screen_name=ricedining&amp;tw_p=followbutton"><i></i>
+          <span class="label" id="l">Follow <b>@ricedining</b></span></a>
+
+      </div>
+    </div>
+    <!--//End Row-->
+  </section>
+  <!--//End Hero Panel-->
+  <div class="container">
+
+  <div id="panel-container">
+	<div class="row">
+		<div class="col_4 suf_8 alpha">
+			<h1>Your Lunch, Today:</h1>
+		</div>
+	</div>
+    <div id="owl-carousel" class="owl-carousel owl-theme">
+
+	  		<div class="item">
+        <div class="servery-title" id="4.Tac0">
+          <h1>4.Tac0</h1>
+        </div>
+        <ul>
+
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Breakfast Tacos 7:30 a.m. - 9:30 a.m.</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Pork Taco</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Fish Taco</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Spanish Rice and/or Beans</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Beef Taco, Chicken Taco</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Korean Beef Taco</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Chicken Tikka Taco</div>
+	         </li>
+        	          <li>
+            <h4> -Noel Romero
+            						<a href="tel:713-348-5788"><i class="fa fa-phone"></i></a>
+            	            	            		<a href="mailto:noel.romero.chavez@rice.edu"><i class="fa fa-envelope"></i></a> </h4>
+            	          </li>
+        </ul>
+      </div>
+	  		<div class="item">
+        <div class="servery-title" id="@Sammy&#39;s">
+          <h1>@Sammy&#39;s</h1>
+        </div>
+        <ul>
+
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Build Your Own Burger</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Margherita Pizza</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Caesar Salad</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Crispy Chicken Sandwich</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">BBQ Chicken Pizza</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Chicken Strip Basket</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Assorted Desserts</div>
+	         </li>
+        	          <li>
+            <h4> -Noel Romero
+            						<a href="tel:713-348-5788"><i class="fa fa-phone"></i></a>
+            	            	            		<a href="mailto:noel.romero.chavez@rice.edu"><i class="fa fa-envelope"></i></a> </h4>
+            	          </li>
+        </ul>
+      </div>
+	  		<div class="item">
+        <div class="servery-title" id="Amb.Cafe">
+          <h1>Amb. Cafe</h1>
+        </div>
+        <ul>
+
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Authentic Chinese Cuisine</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Homemade Fried Rice</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Delicious Egg Rolls</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Vegetarian Options</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Noodle Dishes</div>
+	         </li>
+        	          <li>
+            <h4> -Ambassador Cafe
+            						<a href="tel:713-348-8047"><i class="fa fa-phone"></i></a>
+            	            	            		<a href="mailto:jbogar@rice.edu"><i class="fa fa-envelope"></i></a> </h4>
+            	          </li>
+        </ul>
+      </div>
+	  		<div class="item">
+        <div class="servery-title" id="CoHo">
+          <h1>CoHo</h1>
+        </div>
+        <ul>
+
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		              		<div class="diet soy" title="soy"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Roasted Orange Cornish Hen</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	              		<div class="diet vegetarian" title="vegetarian"></div>
+	              		            	            		            	            		            	            		              		<div class="diet milk" title="milk"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Mashed Potatoes</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		              		<div class="diet vegan" title="vegan"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Mixed Vegetables</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	              		<div class="diet vegetarian" title="vegetarian"></div>
+	              		            	            		            	            		            	            		              		<div class="diet milk" title="milk"></div>
+	              		            	            		              		<div class="diet eggs" title="eggs"></div>
+	              		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Vegetable Frittata</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		              		<div class="diet vegan" title="vegan"></div>
+	              		            	            		            	            		              		<div class="diet gluten" title="gluten"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Rigatoni Pasta with Vegetables</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		              		<div class="diet soy" title="soy"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Carved Brisket With Au Jus</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		              		<div class="diet vegan" title="vegan"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Curried Lentil Soup</div>
+	         </li>
+        	          <li>
+            <h4> -Chef Ahmed
+            						<a href="tel:713-348-4000"><i class="fa fa-phone"></i></a>
+            	            	            		<a href="mailto:club@rice.edu"><i class="fa fa-envelope"></i></a> </h4>
+            	          </li>
+        </ul>
+      </div>
+	  		<div class="item">
+        <div class="servery-title" id="DukeTip">
+          <h1>DukeTip</h1>
+        </div>
+        <ul>
+
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		              		<div class="diet gluten" title="gluten"></div>
+	              		            	            		              		<div class="diet soy" title="soy"></div>
+	              		            	            		              		<div class="diet milk" title="milk"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Italian Meatball Sub Sandwich</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	              		<div class="diet vegetarian" title="vegetarian"></div>
+	              		            	            		              		<div class="diet gluten" title="gluten"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Penne Pasta</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	              		<div class="diet vegetarian" title="vegetarian"></div>
+	              		            	            		            	            		            	            		              		<div class="diet milk" title="milk"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Eggplant & Squash Napoleon</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		              		<div class="diet gluten" title="gluten"></div>
+	              		            	            		              		<div class="diet soy" title="soy"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Greek Chicken</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		              		<div class="diet vegan" title="vegan"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Couscous, Spinach, Sundried Tomatoes and Mushrooms</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		              		<div class="diet vegan" title="vegan"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Fresh Vegetables</div>
+	         </li>
+        	          <li>
+            <h4> -Chefs Charles and Cesar
+            						<a href="tel:713-348-5445"><i class="fa fa-phone"></i></a>
+            	            	            		<a href="mailto:dining@rice.edu"><i class="fa fa-envelope"></i></a> </h4>
+            	          </li>
+        </ul>
+      </div>
+	  		<div class="item">
+        <div class="servery-title" id="IDTech">
+          <h1>ID Tech</h1>
+        </div>
+        <ul>
+
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		              		<div class="diet gluten" title="gluten"></div>
+	              		            	            		              		<div class="diet soy" title="soy"></div>
+	              		            	            		              		<div class="diet milk" title="milk"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Italian Meatball Sub Sandwich</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	              		<div class="diet vegetarian" title="vegetarian"></div>
+	              		            	            		              		<div class="diet gluten" title="gluten"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Penne Pasta</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	              		<div class="diet vegetarian" title="vegetarian"></div>
+	              		            	            		            	            		            	            		              		<div class="diet milk" title="milk"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Eggplant & Squash Napoleon</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		              		<div class="diet gluten" title="gluten"></div>
+	              		            	            		              		<div class="diet soy" title="soy"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Greek Chicken</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		              		<div class="diet vegan" title="vegan"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Couscous, Spinach, Sundried Tomatoes and Mushrooms</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		              		<div class="diet vegan" title="vegan"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Fresh Vegetables</div>
+	         </li>
+        	          <li>
+            <h4> -Chefs Charles and Cesar
+            						<a href="tel:713-348-5445"><i class="fa fa-phone"></i></a>
+            	            	            		<a href="mailto:dining@rice.edu"><i class="fa fa-envelope"></i></a> </h4>
+            	          </li>
+        </ul>
+      </div>
+	  		<div class="item">
+        <div class="servery-title" id="Parliament">
+          <h1>Parliament</h1>
+        </div>
+        <ul>
+
+        	        	<li>
+	            <div class="allergen">
+	            	            		              		<div class="diet vegan" title="vegan"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Steamed Brown Rice</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		              		<div class="diet milk" title="milk"></div>
+	              		            	            		            	            		            	            		              		<div class="diet shellfish" title="shellfish"></div>
+	              		            	            		            	            		            	            </div>
+	            <div class="menu-item">Lemon Butter Shrimp</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		              		<div class="diet vegan" title="vegan"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Spicy Roasted Eggplant</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		              		<div class="diet vegan" title="vegan"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Curry Lentils and Rainbow Kale</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		              		<div class="diet vegan" title="vegan"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		              		<div class="diet treenuts" title="treenuts"></div>
+	              		            	            </div>
+	            <div class="menu-item">Tossed Spring Salad with Local Peaches & Almonds</div>
+	         </li>
+        	          <li>
+            <h4> -Chefs Ed, Kyle and Martin
+            						<a href="tel:713-348-5445"><i class="fa fa-phone"></i></a>
+            	            	            		<a href="mailto:dining@rice.edu"><i class="fa fa-envelope"></i></a> </h4>
+            	          </li>
+        </ul>
+      </div>
+	  		<div class="item">
+        <div class="servery-title" id="Salento">
+          <h1>Salento</h1>
+        </div>
+        <ul>
+
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Breakfast 8:00 a.m. - 11 a.m.</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Breakfast Tacos, Quiche, Empanadas, Croissant, Fresh Fruit</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Lunch 11 a.m. - 2 p.m.</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Assorted sandwiches, paninis, empanadas</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Signature salads and soups</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Crepes: Chicken, Spinach & Ricotta, Ham & Cheese</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Hummus platter</div>
+	         </li>
+        	          <li>
+            <h4> -Salento Chefs
+            						<a href="tel:713-348-2279"><i class="fa fa-phone"></i></a>
+            	            	            		<a href="mailto:dining@rice.edu"><i class="fa fa-envelope"></i></a> </h4>
+            	          </li>
+        </ul>
+      </div>
+	  		<div class="item">
+        <div class="servery-title" id="South">
+          <h1>South </h1>
+        </div>
+        <ul>
+
+        	        	<li>
+	            <div class="allergen">
+	            	            		              		<div class="diet vegan" title="vegan"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Steamed Brown Rice</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		              		<div class="diet milk" title="milk"></div>
+	              		            	            		            	            		            	            		              		<div class="diet shellfish" title="shellfish"></div>
+	              		            	            		            	            		            	            </div>
+	            <div class="menu-item">Lemon Butter Shrimp</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Chicken Basquaise</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		              		<div class="diet vegan" title="vegan"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Spicy Roasted Eggplant</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		              		<div class="diet vegan" title="vegan"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Curry Lentils and Rainbow Kale</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	              		<div class="diet vegetarian" title="vegetarian"></div>
+	              		            	            		              		<div class="diet gluten" title="gluten"></div>
+	              		            	            		              		<div class="diet soy" title="soy"></div>
+	              		            	            		              		<div class="diet milk" title="milk"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Havarti Dill Grilled Cheese Sandwich</div>
+	         </li>
+        	          <li>
+            <h4> -Chef Ed
+            						<a href="tel:713-348-3528"><i class="fa fa-phone"></i></a>
+            	            	            		<a href="mailto:ec2487@rice.edu"><i class="fa fa-envelope"></i></a> </h4>
+            	          </li>
+        </ul>
+      </div>
+	  		<div class="item">
+        <div class="servery-title" id="WhooDeli">
+          <h1>Whoo Deli</h1>
+        </div>
+        <ul>
+
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	              		<div class="diet vegetarian" title="vegetarian"></div>
+	              		            	            		              		<div class="diet gluten" title="gluten"></div>
+	              		            	            		              		<div class="diet soy" title="soy"></div>
+	              		            	            		              		<div class="diet milk" title="milk"></div>
+	              		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Tomato Basil Soup</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Vermont Devonshire Sandwich</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Grilled Margherita Sandwich</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">The Whoo Sandwich</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Make your Own Sandwich</div>
+	         </li>
+        	        	<li>
+	            <div class="allergen">
+	            	            		            	            	            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            		            	            </div>
+	            <div class="menu-item">Homemade Chips</div>
+	         </li>
+        	          <li>
+            <h4> -Noel Romero
+            						<a href="tel:713-348-5788"><i class="fa fa-phone"></i></a>
+            	            	            		<a href="mailto:noel.romero.chavez@rice.edu"><i class="fa fa-envelope"></i></a> </h4>
+            	          </li>
+        </ul>
+      </div>
+	    </div>
+</div>
+</div>
+<!-- Content Item #1 -->
+<section id="section2" class="container">
+  <div class="row">
+    <div class="col_12 alpha">
+      <div id="key">
+      <ul>
+        <li>
+          <div class="diet vegan" title="vegan"></div>
+          <div class="key-items">&nbsp;= Contains Vegan</div>
+        </li>
+        <li>
+          <div class="diet gluten" title="gluten"></div>
+          <div class="key-items">&nbsp;= Contains Gluten</div>
+        </li>
+        <li>
+          <div class="diet milk" title="milk"></div>
+          <div class="key-items">&nbsp;= Contains Milk</div>
+        </li>
+        <li>
+          <div class="diet fish" title="fish"></div>
+          <div class="key-items">&nbsp;= Contains Fish</div>
+        </li>
+        <li>
+          <div class="diet peanuts" title="peanuts"></div>
+          <div class="key-items">&nbsp;= Contains Peanuts</div>
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <div class="diet vegetarian" title="vegetarian"></div>
+          <div class="key-items">&nbsp;= Vegetarian</div>
+        </li>
+        <li>
+          <div class="diet soy" title="soy"></div>
+          <div class="key-items">&nbsp;= Contains Soy</div>
+        </li>
+        <li>
+          <div class="diet eggs" title="eggs"></div>
+          <div class="key-items">&nbsp;= Contains Eggs</div>
+        </li>
+        <li>
+          <div class="diet shellfish" title="shellfish"></div>
+          <div class="key-items">&nbsp;= Contains Shellfish</div>
+        </li>
+        <li>
+          <div class="diet treenuts" title="treenuts">
+        </div>
+        <div class="key-items">&nbsp;= Contains Tree Nuts</div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!--//End #Key-->
+  </div>
+</section>
+<!--//End Content Item -->
+</div>
+<!--//End Main-->
+
+<!-- Footer -->
+<div class="container">
+<footer id="footer" class="row">
+  <div class="col_6 footerleft clearleft">
+    <img src="http://dining.rice.edu/wp-content/themes/rice/_images/logosmall.jpg" alt="Rice University">
+    <p>6100 Main, Houston, Texas 77005-1892</p>
+    <p>Mailing Address: P.O. Box 1892, Houston, Texas 77251-1892</p>
+    <p><SCRIPT>
+                            <!--
+                                today=new Date();
+                                y0=today.getFullYear();
+
+                              // end hiding --->
+                            </SCRIPT>
+        <noscript>
+        2012 - 2016
+        </noscript>
+        Rice University Copyright © <SCRIPT>
+                              <!--- Hide from old browsers
+                                document.write(y0);
+                              // end hiding --->
+                            </SCRIPT>
+        <noscript>
+        2012 - 2016
+        </noscript>
+      </p>      </div>
+     <!--//End Footerleft-->
+    <div class="col_6 valid omega"> <img src="http://dining.rice.edu/wp-content/themes/rice/_images/html5.jpg" alt="HTML 5 Valid">
+      <p> Produced by <a href="http://staff.rice.edu/staff/Public_Affairs.asp">Rice Public Affairs</a> </p>
+    </div>
+    <!--//End Valid-->
+</footer>
+</div><!--//End Container-->
+
+
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://dining.rice.edu/wp-content/themes/rice/_scripts/tools5.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://dining.rice.edu/wp-content/themes/rice/_scripts/twitter-fetcher.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://dining.rice.edu/wp-content/plugins/page-links-to/js/new-tab.min.js?ver=2.9.8'></script>
+<script type='text/javascript' src='http://dining.rice.edu/wp-includes/js/wp-embed.min.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://dining.rice.edu/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='http://dining.rice.edu/wp-content/themes/rice/_scripts/owl.carousel.min.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://dining.rice.edu/wp-content/themes/rice/_scripts/tooltipster.min.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://dining.rice.edu/wp-content/themes/rice/_scripts/home-scripts.js?ver=1.11.0'></script>
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2249859-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>
