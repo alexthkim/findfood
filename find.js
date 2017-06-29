@@ -5,6 +5,7 @@ var express = require('express');
 var request = require("request");
 var cheerio = require("cheerio");
 var models = require('./models/models');
+var bodyParser = require('body-parser')
 
 var client = require('twilio')(process.env.TWILIO_SID, process.env.TWILIO_AUTH_TOKEN)
 
@@ -18,6 +19,13 @@ var client = require('twilio')(process.env.TWILIO_SID, process.env.TWILIO_AUTH_T
 // mongoose.connect(process.env.MONGODB_URI);
 
 var app = express();
+app.use(bodyParser.json())
+app.use(bodyParser.urlencoded({extended:true}))
+
+app.get('/food', function(req,res) {
+  console.log(req.body);
+})
+
 
 function show() {
   request({
