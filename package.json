@@ -4,11 +4,12 @@
   "description": "Find Your Favorite Food @ Rice University",
   "main": "find.js",
   "scripts": {
+    "start": "node find.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexthkim/findfood.git"
+    "url": "https://github.com/alexthkim/findfood.git"
   },
   "author": "Alexander Kim",
   "license": "ISC",
@@ -21,6 +22,6 @@
     "commander": "^2.9.0",
     "express": "^4.15.3",
     "mongoose": "^4.10.7",
-    "request": "^2.81.0",
+    "request": "^2.81.0"
   }
 }

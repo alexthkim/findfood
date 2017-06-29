@@ -2,7 +2,6 @@
 
 var mongoose = require('mongoose');
 var express = require('express');
-var program = require('commander');
 var request = require("request");
 var cheerio = require("cheerio");
 var models = require('./models/models');
@@ -19,16 +18,6 @@ var client = require('twilio')(process.env.TWILIO_SID, process.env.TWILIO_AUTH_T
 // mongoose.connect(process.env.MONGODB_URI);
 
 var app = express();
-
-program.command('show')
-  .description("")
-  .action(show);
-
-program.parse(process.argv);
-
-if (process.argv.length === 2) {
-  program.help();
-}
 
 function show() {
   request({
@@ -47,3 +36,6 @@ function show() {
     });
   });
 }
+
+var port = process.env.PORT || 3000
+app.listen(port)
