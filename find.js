@@ -22,7 +22,7 @@ var app = express();
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({extended:true}))
 
-app.get('/food', function(req,res) {
+app.post('/food', function(req,res) {
   console.log(req.body);
 })
 
