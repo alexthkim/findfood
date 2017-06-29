@@ -23,11 +23,43 @@ app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({extended:true}))
 
 app.post('/food', function(req,res) {
-  console.log(req.body);
+  var food = req.body.Body.toLowerCase();
+  var message = findParticular(food);
+
+  client.messages.create({
+    to: req.body.From,
+    from: req.body.To,
+    body: message,
+  })
 })
 
+function findParticular(favFood) {
+  request({
+    uri: "http://dining.rice.edu",
+  }, function(error, response, body) {
+    var $ = cheerio.load(body);
+    var returnMessage = "You desired " + favFood.toUpperCase() + "\n";
 
-function show() {
+    $(".item").each(function() {
+      var link = $(this);
+      var menuItems = "";
+
+      link.find('.menu-item').each(function() {
+        var menuItem = $(this).text();
+        if (menuItem.contains(favFood)) {
+          menuItems += menuItem + "\n";
+        }
+      })
+      if (menuItems !== "") {
+        returnMessage += link.find('.servery-title').attr('id') + ":\n" + menuItems + "\n";
+      }
+    });
+    return returnMessage;
+  });
+}
+
+
+function find() {
   request({
     uri: "http://dining.rice.edu",
   }, function(error, response, body) {
