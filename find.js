@@ -46,7 +46,7 @@ function findParticular(favFood) {
 
       link.find('.menu-item').each(function() {
         var menuItem = $(this).text();
-        if (menuItem.contains(favFood)) {
+        if (menuItem.includes(favFood)) {
           menuItems += menuItem + "\n";
         }
       })
