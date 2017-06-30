@@ -30,7 +30,7 @@ app.post('/food', function(req,res) {
       from: req.body.To,
       body: message,
     })
-    res.status(200).send();
+    res.sendStatus(200);
   });
 })
 
@@ -38,7 +38,6 @@ function findParticular(favFood, callback) {
   request({
     uri: "http://dining.rice.edu",
   }, function(error, response, body) {
-    console.log("ehllo");
     var $ = cheerio.load(body);
     var returnMessage = "You desired " + favFood.toUpperCase() + "\n\n";
 
@@ -49,7 +48,6 @@ function findParticular(favFood, callback) {
       link.find('.menu-item').each(function() {
         var menuItem = $(this).text();
         if (menuItem.toLowerCase().includes(favFood)) {
-          console.log(menuItem)
           menuItems += menuItem + "\n";
         }
       })
