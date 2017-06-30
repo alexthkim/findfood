@@ -24,21 +24,23 @@ app.use(bodyParser.urlencoded({extended:true}))
 
 app.post('/food', function(req,res) {
   var food = req.body.Body.toLowerCase();
-  var message = findParticular(food);
-
-  client.messages.create({
-    to: req.body.From,
-    from: req.body.To,
-    body: message,
-  })
+  findParticular(food, function(message) {
+    client.messages.create({
+      to: req.body.From,
+      from: req.body.To,
+      body: message,
+    })
+    res.status(200).send();
+  });
 })
 
-function findParticular(favFood) {
+function findParticular(favFood, callback) {
   request({
     uri: "http://dining.rice.edu",
   }, function(error, response, body) {
+    console.log("ehllo");
     var $ = cheerio.load(body);
-    var returnMessage = "You desired " + favFood.toUpperCase() + "\n";
+    var returnMessage = "You desired " + favFood.toUpperCase() + "\n\n";
 
     $(".item").each(function() {
       var link = $(this);
@@ -46,7 +48,8 @@ function findParticular(favFood) {
 
       link.find('.menu-item').each(function() {
         var menuItem = $(this).text();
-        if (menuItem.includes(favFood)) {
+        if (menuItem.toLowerCase().includes(favFood)) {
+          console.log(menuItem)
           menuItems += menuItem + "\n";
         }
       })
@@ -54,7 +57,8 @@ function findParticular(favFood) {
         returnMessage += link.find('.servery-title').attr('id') + ":\n" + menuItems + "\n";
       }
     });
-    return returnMessage;
+
+    callback(returnMessage);
   });
 }
 
